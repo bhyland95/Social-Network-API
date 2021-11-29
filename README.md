@@ -13,11 +13,14 @@
   - [Questions](#questions)
 
   ## Installation
- Add a .env file and fill out the DB name and MYSQL credentials. 
+  Make sure you have mongoDB installed.
+  Clone the Repo
+  Add the dependencies ("npm i")
+  "npm start" to start the server on your localhost. 
+  
 
   ## Usage
   Visit the link to see a walkthrough of the application. Create a User and some thoughts! 
-  Make sure you have mongoDB installed and all the dependencies! 
     https://drive.google.com/file/d/1cozoTdOmDg2ju3VWFArh1RIbo31HKGJD/view?usp=sharing
 
 
