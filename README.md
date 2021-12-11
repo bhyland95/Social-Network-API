@@ -21,7 +21,7 @@
 
   ## Usage
   Visit the link to see a walkthrough of the application. Create a User and some thoughts! 
-    https://drive.google.com/file/d/1cozoTdOmDg2ju3VWFArh1RIbo31HKGJD/view?usp=sharing
+   https://drive.google.com/file/d/1HlhWvF41JFCV51o0JPXkIJmSS1yYy1X7/view?usp=sharing
 
 
   ## License
